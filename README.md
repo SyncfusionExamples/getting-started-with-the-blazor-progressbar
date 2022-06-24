@@ -1,5 +1,5 @@
 # Getting Started with the Blazor ProgressBar Component
-The [Blazor ProgressBar](https://www.syncfusion.com/blazor-components/blazor-progressbar?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples)  is a control that indicates the progress of a task with customizable visuals. A quick-start project that shows you get up and running with the Syncfusion ProgressBar component in a Blazor WebAssembly application. This project also contains the code snippet to configure a few of its basic features, like different types, states, and ranges.
+The [Blazor ProgressBar](https://www.syncfusion.com/blazor-components/blazor-progressbar?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples) is a control that indicates the progress of a task with customizable visuals. A quick-start project that shows you get up and running with the Syncfusion ProgressBar component in a Blazor WebAssembly application. This project also contains the code snippet to configure a few of its basic features, like different types, states, and ranges.
 
 Documentation: https://blazor.syncfusion.com/documentation/progress-bar/getting-started
 
