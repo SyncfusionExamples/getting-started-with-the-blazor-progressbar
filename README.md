@@ -1,10 +1,6 @@
 # Getting Started with the Blazor ProgressBar Component
 The [Blazor ProgressBar](https://www.syncfusion.com/blazor-components/blazor-progressbar?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples) is a control that indicates the progress of a task with customizable visuals. A quick-start project that shows you get up and running with the Syncfusion ProgressBar component in a Blazor WebAssembly application. This project also contains the code snippet to configure a few of its basic features, like different types, states, and ranges.
 
-Documentation: https://blazor.syncfusion.com/documentation/progress-bar/getting-started
-
-Online examples: https://blazor.syncfusion.com/demos/progress-bar/linear?theme=bootstrap5
-
 ## Project prerequisites
 Make sure that you have the compatible versions of [Visual Studio 2019 (version 16.6+)]( https://visualstudio.microsoft.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) and [.NET Core SDK 3.1.8](https://dotnet.microsoft.com/download/dotnet-core/3.1?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) or later version in your machine before starting to work on this project.
 
@@ -44,14 +40,8 @@ Users can also see numerous ranges with gradient colors or solid colors assigned
 
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples)
 
-
-### License
-
-This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples).
-
 ### About Syncfusion Blazor Components
 The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to ProgressBar, we provide popular Blazor Components such as DataGrid, Chart, Scheduler, Diagram, Word Processor, and more.
-
 
 ### About Syncfusion
 
