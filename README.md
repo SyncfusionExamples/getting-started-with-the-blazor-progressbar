@@ -1,11 +1,17 @@
 # Getting Started with the Blazor ProgressBar Component
+
 The [Blazor ProgressBar](https://www.syncfusion.com/blazor-components/blazor-progressbar?utm_source=github&utm_medium=listing&utm_campaign=blazor-progressbar-github-samples) is a control that indicates the progress of a task with customizable visuals. A quick-start project that shows you get up and running with the Syncfusion ProgressBar component in a Blazor WebAssembly application. This project also contains the code snippet to configure a few of its basic features, like different types, states, and ranges.
 
-## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio 2019 (version 16.6+)]( https://visualstudio.microsoft.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) and [.NET Core SDK 3.1.8](https://dotnet.microsoft.com/download/dotnet-core/3.1?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) or later version in your machine before starting to work on this project.
+## Prerequisites
 
-## How to run this application
-To run this application, you need to first clone the `getting-started-with-the-blazor-progressbar` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and Benefits
 
