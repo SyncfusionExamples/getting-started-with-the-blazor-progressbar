@@ -1,0 +1,30 @@
+﻿@page "/"
+
+<div>
+    <label style="margin-left: 1%">Progress Bar</label>
+    <SfProgressBar Minimum="0"
+                   Maximum="100"
+                   Value="50"
+                   Height="80"
+                   Width="60%"
+                   TrackThickness="12"
+                   ProgressThickness="12"
+                   TrackColor="#F8C7D8"
+                   ProgressColor="#E3165B"
+                   Type="ProgressType.Linear"
+                   SegmentCount="8"
+                   IsStriped="true"
+                   Radius="80%"
+                   InnerRadius="60%"
+                   IsActive="true"
+                   ShowProgressValue="false">
+        <ProgressBarAnimation Enable="true" Duration="2000" Delay="0"></ProgressBarAnimation>
+        <ProgressBarAnnotations>
+            <ProgressBarAnnotation>
+                <ContentTemplate>
+                    <span>Loading...</span>
+                </ContentTemplate>
+            </ProgressBarAnnotation>
+        </ProgressBarAnnotations>
+    </SfProgressBar>
+</div>
