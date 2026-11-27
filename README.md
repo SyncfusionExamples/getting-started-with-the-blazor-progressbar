@@ -34,19 +34,37 @@ This sample demonstrates the Syncfusion [Blazor ProgressBar](https://www.syncfus
 1. Clone the repository.
 2. Open the repository folder in Visual Studio Code.
 3. Open the integrated terminal.
-4. Navigate to the startup project directory for the hosted application.
+3. Navigate to the `Server` project directory:
+
+```bash
+cd Server 
+```
+
+4. Restore project dependencies:
 
 ```bash
 dotnet restore
+```
+
+5. Run the application:
+
+```bash
 dotnet run
 ```
 
-5. Open the local URL displayed in the terminal after the application starts.
+6. Open the local URL displayed in the terminal after the application starts.
 
 ## Project Structure
 
 - `GettingStarted.sln` — Visual Studio solution file containing the sample projects.
+
+- `Client/` — Contains the Blazor WebAssembly client application.
+
 - `Client/Pages/Index.razor` — Contains the `SfProgressBar` component demonstration and ProgressBar configuration.
+  
+- `Server/` — Hosts and serves the Blazor WebAssembly application.
+
+- `Shared/` — Contains shared models and resources used by both the Client and Server projects.
 
 ## Support and Feedback
 
